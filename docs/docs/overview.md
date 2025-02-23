@@ -6,10 +6,16 @@ This project focuses on **building a custom Virtual Private Cloud (VPC)** in AWS
 
 Key Objectives
 ✅ Custom VPC Setup: Create a dedicated network environment.
+
 ✅ Subnet Configuration: Set up public and private subnets.
+
 ✅ Internet Gateway & Routing: Enable internet access via a public subnet.
+
 ✅ Security Group Setup: Restrict and allow access as needed.
+
 ✅ EC2 Windows Server Deployment: Launch an instance inside the VPC.
+
 ✅ Remote Desktop Access: Connect to the Windows instance via RDP.
+
 ✅ Internet Connectivity Test: Verify outbound traffic from the instance.
 
