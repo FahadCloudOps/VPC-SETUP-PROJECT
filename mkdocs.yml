@@ -1,0 +1,8 @@
+site_name: AWS VPC PROJECT DOCUMNETATION
+theme :
+name: material
+
+nav:
+-Home: index.md
+-vpc setup: setup.md
+-configurations: configuration.md
