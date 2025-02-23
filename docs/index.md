@@ -1,10 +1,9 @@
 
 
-Project Title: "Creating a Custom VPC and Accessing Windows Server on AWS"
+{Project Title: "Creating a Custom VPC and Accessing Windows Server on AWS"}
 
 Project Description:
-
-### ** Creating a Custom VPC and Accessing Windows Server on AWS**  
+** Creating a Custom VPC and Accessing Windows Server on AWS**  
 
 The goal of this project is to **design and deploy a fully functional Virtual Private Cloud (VPC)** in AWS, ensuring secure and efficient network communication. This VPC setup will provide a controlled environment for hosting resources, such as an **Amazon EC2 Windows Server**, while implementing **best practices for security and networking**.  
 
